@@ -28,7 +28,7 @@ Good documentation and code organization will also be important for this project
 
 RESULT:
        
-       The project would require skills in image processing, OCR, GUI development, and
+  The project would require skills in image processing, OCR, GUI development, and
 database management. It would also require careful design and planning of the
 application architecture to ensure that it is scalable, maintainable, and extensible.
 Good documentation and code organization would also be important for the project.
