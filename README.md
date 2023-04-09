@@ -5,7 +5,8 @@ TECHNOLOGIES:
 
            OCR,streamlit GUI, SQL,Data Extraction           
  STATEMENT:
-             In this task i developed a Streamlit application that allow users to upload an image of a business card and extract relevant information from it using
+            
+            In this task i developed a Streamlit application that allow users to upload an image of a business card and extract relevant information from it using
 easyOCR. The extracted information has include the company name, card holder
 name, designation, mobile number, email address, website URL, area, city, state,
 and pin code. The extracted information should then be displayed in the application's
@@ -24,7 +25,9 @@ Update the data and Allow the user to delete the data through the streamlit UI
 database management. It will also require you to carefully design and plan the
 application architecture to ensure that it is scalable, maintainable, and extensible.
 Good documentation and code organization will also be important for this project.
+
 RESULT:
+       
        The project would require skills in image processing, OCR, GUI development, and
 database management. It would also require careful design and planning of the
 application architecture to ensure that it is scalable, maintainable, and extensible.
